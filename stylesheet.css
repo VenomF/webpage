@@ -1,0 +1,20 @@
+body {
+
+    /*background: linear-gradient(to right, #45a3e6, #456de6); */
+    background-image: url(blue-sky-clouds-dawn-760681.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  
+  h1 {
+    color:#ae5617;
+    text-align: center;
+    text-decoration-style: dashed;
+  }
+
+  h2{
+    color:#ae5617;
+    text-align: center;
+    text-decoration-style: dashed;
+  }
